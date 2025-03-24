@@ -1,0 +1,8 @@
+    "cosmosdb": {
+      "command": "node",
+      "args": [ "C:/AI/mcp/cosmosdb/dist/index.js" ],
+      "env": {
+        "COSMOSDB_URI": "Your Cosmos DB Account URI",
+        "COSMOSDB_KEY": "Your Cosmos DB KEY"
+      }
+    },
